@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # ¡Hola Mundo! Soy Jesus
 
 Ingeniero en Mecatrónica | Desarrollador | Entusiasta del automovilismo | Emprendedor
@@ -57,7 +57,7 @@ Sistema automatizado que activa el riego según las necesidades del suelo. Optim
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,arduino,autocad,blender,c,cpp,discord,gcp,github,gmail,html,java,linux,ps,py,raspberrypi,ruby,sublime,visualstudio,vscode)](https://skillicons.dev)
 Mis Habilidades
 
 
